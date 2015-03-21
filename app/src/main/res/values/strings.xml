@@ -18,5 +18,25 @@
     <string name="rulescontent">Here are the rules</string>
     <string name="leaderboard">Leaderboard</string>
     <string name="start">Start</string>
+    <string name="next">Next</string>
+    <string name="team1">Team 1</string>
+    <string name="team2">Team 2</string>
+    <string name="winner">Winner</string>
+    <string name="yay">Yay!</string>
+    <string name="reset">Reset</string>
+    <string name="ok">Ok</string>
+    <string-array name="wordsList">
+        <item>Horse</item>
+        <item>Hose</item>
+        <item>Truck</item>
+        <item>Party</item>
+        <item>Computer</item>
+        <item>Tree</item>
+        <item>Oranges</item>
+        <item>Forest</item>
+        <item>fire</item>
+        <item>Dice</item>
+        <item>Poker</item>
+    </string-array>
 
 </resources>
